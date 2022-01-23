@@ -15,6 +15,8 @@ html, body {
     --gradient-color: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
     --shadow-color: 0px 10px 30px rgba(118, 85, 225, 0.3);
     --box-color: 0px 10px 30px rgba (57, 56, 61, 0.205);
+    --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+    /*--box-shadow: 100px 100px 300px rgba(57, 56, 61, 0.205);*/
 
     /*font family variable */
     --font-family: 'Roboto', cursive;
